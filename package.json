@@ -1,5 +1,5 @@
 {
-  "name": "spec-up",
+  "name": "dif-jwt-vc-issuance-profile",
   "version": "0.10.3",
   "description": "Technical specification drafting tool that generates rich specification documents from markdown.",
   "main": "./index",
