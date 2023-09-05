@@ -2,7 +2,7 @@
 {
   "specs": [
     {
-      "title": "Spec-Up Example",
+      "title": "JWT VC Issuance profile",
       "spec_directory": "./spec",
       "output_path": "./",
       "logo": "logo.svg",
